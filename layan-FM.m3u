@@ -6,3 +6,6 @@ http://207.148.74.192:7860/stream2.mp3
 
 #EXTINF: -1 tvg-logo="https://nethfm.lk/radio/playerbanners/banners/neth1.jpg" group-title="SINHALA", NETH FM
 https://stream.zeno.fm/emgkfd4f4p8uv
+
+#EXTINF: -1 tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s176-c-k-c0x00ffffff-no-rj" group-title="SINHALA", ITN LAKHADA FM
+https://cp12.serverse.com/proxy/itnfm?mp=/stream
