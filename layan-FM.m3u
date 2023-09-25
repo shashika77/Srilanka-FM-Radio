@@ -1,0 +1,6 @@
+#EXTM3U 
+
+
+#EXTINF: -1 tvg-logo="https://shreefm.lk/img/sitha-symbol-svg.png" group-title="SINHALA", SRI FM
+http://207.148.74.192:7860/stream2.mp3
+
