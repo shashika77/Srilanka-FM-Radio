@@ -9,3 +9,6 @@ https://stream.zeno.fm/emgkfd4f4p8uv
 
 #EXTINF: -1 tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s176-c-k-c0x00ffffff-no-rj" group-title="SINHALA", ITN LAKHADA FM
 https://cp12.serverse.com/proxy/itnfm?mp=/stream
+
+#EXTINF: -1 tvg-logo="https://www.vfm.lk/assets/site/images/logo.png" group-title="SINHALA", V FM
+https://cp12.serverse.com/proxy/itnfm?mp=/stream
