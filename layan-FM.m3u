@@ -12,3 +12,6 @@ https://cp12.serverse.com/proxy/itnfm?mp=/stream
 
 #EXTINF: -1 tvg-logo="https://www.vfm.lk/assets/site/images/logo.png" group-title="SINHALA", V FM
 https://dc1.serverse.com/proxy/fmlanka/stream
+
+#EXTINF: -1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/uf6uwduxygbg.png" group-title="SINHALA", SIRASA FM
+https://ssl.shoutcaststreaming.us:8078/index.html/stream?1700396499
