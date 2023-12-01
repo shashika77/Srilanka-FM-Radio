@@ -15,3 +15,6 @@ https://dc1.serverse.com/proxy/fmlanka/stream
 
 #EXTINF: -1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/uf6uwduxygbg.png" group-title="SINHALA", SIRASA FM
 https://ssl.shoutcaststreaming.us:8078/index.html/stream?1700396499
+
+#EXTINF: -1 tvg-logo="https://yesfmonline.com/images/logos/yes-fm-logo-about.png" group-title="ENGLIASH", YES FM
+https://mbc.thestreamtech.com:7056/index.html/stream
